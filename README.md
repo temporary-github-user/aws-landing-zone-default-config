@@ -1,0 +1,1 @@
+# aws-landing-zone-default-config
